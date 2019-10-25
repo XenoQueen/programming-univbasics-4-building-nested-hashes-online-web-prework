@@ -24,10 +24,13 @@ def monopoly_with_third_tier
    },
   :empire => {
     "Hutta" => {
-      :native_species => ""
+      :native_species => "Evocii"},
+    "Korriban" => {
+      :native_species => "Sith"
+      }
     }
   }
-   }
+  
 
  
 end
