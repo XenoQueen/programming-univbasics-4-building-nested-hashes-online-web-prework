@@ -7,7 +7,8 @@ end
 def monopoly_with_second_tier
   galaxy_planets = {
    :republic => {
-     "", "Tython", :empire
+     "Ord Mantell", "Tython"}
+     :empire
    }
 
 def monopoly_with_third_tier
