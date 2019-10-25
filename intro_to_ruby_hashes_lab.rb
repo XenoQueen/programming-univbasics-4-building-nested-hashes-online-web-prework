@@ -1,6 +1,6 @@
 def base_hash
  galaxy_planets = {
-   
+   :republic, :empire
    }
 end
 
